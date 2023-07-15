@@ -49,6 +49,10 @@ Automatically derived relationships are adjusted to remove and replace unwanted 
 The model is a star schema. There are 5-dimensional tables and 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship.
 
 ## Visualization
+![](Ecommerce_Dashboard.png)
+
+## Insights 
+
 
 
 
