@@ -44,7 +44,11 @@ Automatically derived relationships are adjusted to remove and replace unwanted 
 
 **Adjusted Model**               | **Auto Model**
 :-------------------------------:|:----------------------------------:
-![](audjusted_schema.pdf)        |![](auto_generated schema.pdf)
+![](adjusted_model.png)          |![](auto_generated schema.pdf)
+
+The model is a star schema. There are 5-dimensional tables and 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship.
+
+## Visualization
 
 
 
