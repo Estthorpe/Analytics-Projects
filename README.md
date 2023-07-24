@@ -9,9 +9,8 @@ The project is to analyze and derive insights regarding the sales, revenue, and 
 
 **Disclaimer**: All data sets and reports do not represent any company institution or country but are just a dummy dataset to demonstrate the capabilities of Power BI as a visualization tool.
 
-Problem Statement
-A US Based E-commerce Outlet is requesting a sales dashboard showing information on YTD sales and insights for the following KPIs
-
+**Problem Statement**
+A US Based E-commerce Outlet is requesting a sales dashboard showing information on YTD sales and insights for the following KPIs:
 -KPIs for YTD Sales, YTD Profit, YTD Quantity sold, YTD Profit Margin
 - Year on Year Growth for each KPI using a YTD sparkline for each measure in the KPI to understand the monthly trend for each measure.
 - Find YTD Sales, PYTD Sales, and YoY Sales growth for each customer category. Add an append icon for each category
